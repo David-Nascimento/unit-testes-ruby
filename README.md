@@ -1,1 +1,1 @@
-# Teste BDD com Ruby
+# BDD e TDD com Ruby
