@@ -1,3 +1,5 @@
+[![Ruby](https://github.com/David-Nascimento/unit-testes-ruby/actions/workflows/ruby.yml/badge.svg)](https://github.com/David-Nascimento/unit-testes-ruby/actions/workflows/ruby.yml)
+
 # Estória do Usuário
 
 > Qualidade de Software começa na especificação
